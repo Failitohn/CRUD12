@@ -1,0 +1,99 @@
+Acción 66: Fin de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 67: Clic del usuario con botón primario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 68: Entrada de teclado del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)" [RETROCESO RETROCESO ... RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO RETROCESO ... ENTRAR ... BLOQMAYUS BLOQMAYUS ... BLOQMAYUS ... FLECHAIZQUIERDA ... BLOQMAYUS ... BLOQMAYUS ... BLOQMAYUS ... ENTRAR]
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 69: Inicio de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 70: Fin de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 71: Inicio de arrastre del mouse del usuario en "Posición (miniatura)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: Posición, Vertical, MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 72: Fin de arrastre del mouse del usuario en "Posición (miniatura)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: Posición, Vertical, MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 73: Inicio de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 74: Fin de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 75: Inicio de arrastre del mouse del usuario en "Posición (miniatura)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: Posición, Vertical, MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 76: Fin de arrastre del mouse del usuario en "Posición (miniatura)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: Posición, Vertical, MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 77: Clic del usuario con botón primario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 78: Clic del usuario con botón primario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 79: Clic del usuario con botón primario en "Failitohn - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 80: Rueda abajo del mouse del usuario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 81: Rueda arriba del mouse del usuario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 82: Clic del usuario con botón primario en "Git Bash: 1 ventana en ejecución (botón)"
+Programa: Explorador de Windows, 10.0.19041.6159 (WinBuild.160101.0800), Microsoft Corporation, EXPLORER.EXE, EXPLORER.EXE
+Elementos de la UI: Git Bash: 1 ventana en ejecución, Aplicaciones en ejecución, MSTaskListWClass, Aplicaciones en ejecución, MSTaskSwWClass, ReBarWindow32, Barra de tareas, Shell_TrayWnd
+
+Acción 83: Entrada de teclado del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)" [... ENTRAR]
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 84: Clic del usuario con botón primario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 85: Clic del usuario con botón primario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 86: Clic del usuario con botón primario en "Failitohn - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
+
+Acción 87: Clic del usuario con botón primario en "Git Bash: 1 ventana en ejecución (botón)"
+Programa: Explorador de Windows, 10.0.19041.6159 (WinBuild.160101.0800), Microsoft Corporation, EXPLORER.EXE, EXPLORER.EXE
+Elementos de la UI: Git Bash: 1 ventana en ejecución, Aplicaciones en ejecución, MSTaskListWClass, Aplicaciones en ejecución, MSTaskSwWClass, ReBarWindow32, Barra de tareas, Shell_TrayWnd
+
+Acción 88: Inicio de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 89: Fin de arrastre del mouse del usuario en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3) (ventana)", en "MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3)"
+Programa: MSYS2 terminal, 3.7.8.0, Thomas Wolff, Andy Koppe, MINTTY.EXE --NODAEMON -O APPID=GITFORWINDOWS.BASH -O APPLAUNCHCMD= C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE -O APPNAME= GIT BASH -I C:\USERS\DOCEUNO\APPDATA\LOCAL\PROGRAMS\GIT\GIT-BASH.EXE --STORE-TASKBAR-PROPERTIES -- /USR/BIN/BASH --LOGIN -I, MINTTY.EXE
+Elementos de la UI: MINGW64:/c/Users/Doceuno/Desktop/Nueva carpeta (3), mintty
+
+Acción 90: Clic del usuario con botón primario en "Failitohn/CRUD12 - Perfil 1: Microsoft​ Edge"
+Programa: Microsoft Edge, 138.0.3351.109, Microsoft Corporation, MSEDGE.EXE --NO-STARTUP-WINDOW, MSEDGE.EXE
+Elementos de la UI:
